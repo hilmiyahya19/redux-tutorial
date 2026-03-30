@@ -1,11 +1,13 @@
 // import './App.css'
-import Counter from './components/Counter'
+// import Counter from './components/Counter'
+import PostList from './components/PostList'
 
 function App() {
 
   return (
     <>
-      <Counter />
+      {/* <Counter /> */}
+      <PostList />
     </>
   )
 }
